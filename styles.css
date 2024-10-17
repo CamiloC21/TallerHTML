@@ -1,0 +1,28 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+}
+.profile-card {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-top: 50px;
+}
+.profile-img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.name {
+    font-size: 2em;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.description {
+    margin-top: 10px;
+    font-size: 1.2em;
+    color: #555;
+}
